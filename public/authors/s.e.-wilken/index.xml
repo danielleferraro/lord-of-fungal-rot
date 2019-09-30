@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S.E. Wilken | Thomas S. Lankiewicz</title>
+    <link>/authors/s.e.-wilken/</link>
+      <atom:link href="/authors/s.e.-wilken/index.xml" rel="self" type="application/rss+xml" />
+    <description>S.E. Wilken</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>S.E. Wilken</title>
+      <link>/authors/s.e.-wilken/</link>
+    </image>
+    
+    <item>
+      <title>Top-down enrichment guides in formation of synthetic microbial consortia for biomass degradation</title>
+      <link>/publication/2019_acs_synbio/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_acs_synbio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linking ‘omics’ to function unlocks the biotech potential of non-model fungi</title>
+      <link>/publication/2019_opinions_systems_bio/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_opinions_systems_bio/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
