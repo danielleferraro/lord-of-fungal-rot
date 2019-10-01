@@ -39,4 +39,4 @@ user_groups:
 - Visitors
 ---
 
-Thomas Lankiewicz is a sexy mofo. He is interested in engineering metabolisms of non-model microbes and microbial communities, anaerobic digestion of cellulosic biomass. He does lots of cool work and is a very hot babe. 
+Thomas Lankiewicz is a sexy mofo. He works for the [O'Malley Lab] (http://www.omalleylab.com/) and canoodles with [JBEI] (http://www.jbei.org). He is interested in engineering metabolisms of non-model microbes and microbial communities, anaerobic digestion of cellulosic biomass. He does lots of cool work and is a very hot babe. 

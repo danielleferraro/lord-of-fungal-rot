@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. Kirchman | Thomas S. Lankiewicz</title>
+    <link>/authors/d.-kirchman/</link>
+      <atom:link href="/authors/d.-kirchman/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. Kirchman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>D. Kirchman</title>
+      <link>/authors/d.-kirchman/</link>
+    </image>
+    
+    <item>
+      <title>Growth rates and rRNA content of four marine bacteria in pure cultures and in the Delaware estuary</title>
+      <link>/publication/2016_isme/</link>
+      <pubDate>Thu, 28 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016_isme/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
