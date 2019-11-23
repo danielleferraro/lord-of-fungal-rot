@@ -1,7 +1,7 @@
 [build]
   command = "hugo --gc --minify -b $URL --themesDir ../../"
-  base    = "exampleSite"
-  publish = "exampleSite/public"
+  base    = "lord-of-fungal-rot"
+  publish = "lord-of-fungal-rot/public"
 
 [build.environment]
   HUGO_THEME = "repo"
@@ -26,3 +26,11 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+    
+    
+    
+    
+    
+    
+    
+    
