@@ -5,12 +5,76 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>A. Salamov</title>
+      <link>/authors/a.-salamov/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-salamov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I. Grigoriev</title>
+      <link>/authors/i.-grigoriev/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/i.-grigoriev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Henske</title>
+      <link>/authors/j.-henske/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/j.-henske/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. O&#39;Malley</title>
+      <link>/authors/m.-omalley/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-omalley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Saxena</title>
+      <link>/authors/m.-saxena/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-saxena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Seppälä</title>
+      <link>/authors/s.-seppala/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/s.-seppala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S.E. Wilken</title>
+      <link>/authors/s.e.-wilken/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/s.e.-wilken/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Lankiewicz</title>
+      <link>/authors/t.-lankiewicz/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/t.-lankiewicz/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>D. Valentine</title>
@@ -29,26 +93,10 @@
     </item>
     
     <item>
-      <title>J. Henske</title>
-      <link>/authors/j.-henske/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/j.-henske/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>J. Sexton</title>
       <link>/authors/j.-sexton/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       <guid>/authors/j.-sexton/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M. O&#39;Malley</title>
-      <link>/authors/m.-omalley/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/m.-omalley/</guid>
       <description></description>
     </item>
     
@@ -69,22 +117,6 @@
     </item>
     
     <item>
-      <title>S.E. Wilken</title>
-      <link>/authors/s.e.-wilken/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/s.e.-wilken/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>T. Lankiewicz</title>
-      <link>/authors/t.-lankiewicz/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/t.-lankiewicz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>C. Swift</title>
       <link>/authors/c.-swift/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
@@ -97,14 +129,6 @@
       <link>/authors/i.-podolsky/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       <guid>/authors/i.-podolsky/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S. Seppälä</title>
-      <link>/authors/s.-seppala/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/s.-seppala/</guid>
       <description></description>
     </item>
     

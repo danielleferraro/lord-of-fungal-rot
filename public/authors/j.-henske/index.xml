@@ -5,12 +5,20 @@
     <link>/authors/j.-henske/</link>
       <atom:link href="/authors/j.-henske/index.xml" rel="self" type="application/rss+xml" />
     <description>J. Henske</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>J. Henske</title>
       <link>/authors/j.-henske/</link>
     </image>
+    
+    <item>
+      <title>Genomic and proteomic biases inform metabolic engineering strategies for anaerobic fungi</title>
+      <link>/publication/2019_metabolic_eng_comms/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_metabolic_eng_comms/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Top-down enrichment guides in formation of synthetic microbial consortia for biomass degradation</title>

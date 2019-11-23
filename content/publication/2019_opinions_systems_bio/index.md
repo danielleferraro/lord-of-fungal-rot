@@ -10,10 +10,10 @@ authors:
 date: "2019-04-01"
 doi: ""
 featured: false
-# image:
-#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-#   focal_point: ""
-#   preview_only: false
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
 projects: []
 publication: '*Current Opinions in Systems Biology*'
 publication_short: ""

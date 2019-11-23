@@ -5,12 +5,20 @@
     <link>/authors/s.-seppala/</link>
       <atom:link href="/authors/s.-seppala/index.xml" rel="self" type="application/rss+xml" />
     <description>S. Seppälä</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>S. Seppälä</title>
       <link>/authors/s.-seppala/</link>
     </image>
+    
+    <item>
+      <title>Genomic and proteomic biases inform metabolic engineering strategies for anaerobic fungi</title>
+      <link>/publication/2019_metabolic_eng_comms/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019_metabolic_eng_comms/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Linking ‘omics’ to function unlocks the biotech potential of non-model fungi</title>
