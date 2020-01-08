@@ -10,7 +10,7 @@ image:
 #   name: Follow
 #   url: https://twitter.com/georgecushen
 slides: example
-summary: An example of using the in-built project page.
+summary:  " "
 #tags:
 #- Deep Learning
 title: Non-model Microbes
