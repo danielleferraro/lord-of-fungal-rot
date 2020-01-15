@@ -20,7 +20,7 @@ name: Thomas Lankiewicz
 organizations:
 - name: University of California, Santa Barbara
   url: ""
-role: PhD Student; Evolution, Ecology, and Marine Biology/Chemical Engineering
+role: PhD Student in Evolution, Ecology, and Marine Biology and Chemical Engineering
 social:
 - icon: envelope
   icon_pack: fas
@@ -39,18 +39,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
-DRAFT v0 (original):
-
 I am a PhD student in the [O'Malley Lab](http://www.omalleylab.com/) at UC Santa Barbara where I prospect for novel enzymes in single celled anaerobic fungi that we find in the digestive tracts of large herbivores. My overarching scientific interest is expanding what microbes can do for humans through research questions that inform current and future biotechnological processes involving microbes. In practice, this means that I am very interested in alternative and novel chemical processes that leverage the ingenuity of microbes to help eliminate petroleum dependence, reduce human impacts on climate, and assist in space habitation through biochemical recycling of waste streams. 
 
 My current work is centered around biorefinery processes with a focus on alternative processes of biologically mediated lignin deconstruction and valorization. My work on biorefinery processes is a small piece of the work that we do at the [Joint BioEnergy Institute](http://www.jbei.org) (JBEI) and even though I am offsite I am a proud member of the JBEI family. 
 
 I am an environmental microbiologist and biogeochemist by training, but I simply love working in chemical engineering because it allows me to use my interest in weird microbes for good.
-
-DRAFT v1:
-
-I am a PhD student in the [O'Malley Lab](http://www.omalleylab.com/) at UC Santa Barbara where we do X, Y, Z, chemical engineering. My overarching scientific interest is expanding what microbes can do for humans through research questions that inform current and future biotechnological processes. In practice, this means that I am very interested in alternative and novel chemical processes that leverage the ingenuity of microbes to help eliminate petroleum dependence, reduce human impacts on climate, and assist in space habitation through biochemical recycling of waste streams. 
-
-My dissertation research focuses on alternative biorefinery processes, specifically biologically mediated lignin deconstruction and valorization. In partnership with the [Joint BioEnergy Institute](http://www.jbei.org) (JBEI), I prospect for novel enzymes in single celled anaerobic fungi that we find in the digestive tracts of large herbivores. I am proud to contribute to the innovative research goals of JBEI as a member of their [deconstruction team](http://jbei.org). 
-
-I am an environmental microbiologist and biogeochemist by training, but find working in chemical engineering so gratifying (and exciting!) because it allows me to use my interest in weird microbes for good.
