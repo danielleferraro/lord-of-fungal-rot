@@ -133,11 +133,6 @@
   </url>
   
   <url>
-    <loc>/tags/source-themes/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/2019_annual_review/</loc>
     <lastmod>2019-03-18T00:00:00+00:00</lastmod>
   </url>
@@ -179,26 +174,6 @@
   
   <url>
     <loc>/art/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/lignin-valorization/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/non-model-microbes/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/novel-enzyme-discovery/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -260,6 +235,22 @@
   <url>
     <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/lignin-valorization/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/non-model-microbes/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/novel-enzyme-discovery/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
   </url>
   
 </urlset>

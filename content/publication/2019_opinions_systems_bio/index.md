@@ -23,7 +23,7 @@ publishDate: "2019-04-01"
 #slides: example
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
-- Source Themes
+- 
 title: Linking ‘omics’ to function unlocks the biotech potential of non-model fungi
 #url_code: ""
 #url_dataset: ""
