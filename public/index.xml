@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Thomas S. Lankiewicz</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Thomas S. Lankiewicz</title>
@@ -15,9 +15,27 @@
     <item>
       <title>Lignin Valorization</title>
       <link>/project/lignin-valorization/</link>
-      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/project/lignin-valorization/</guid>
       <description>&lt;p&gt;A lignocellulosic biorefinery is the concept that we can use rapidly growing plants as a feedstock, or chemical starting point, and then transform these plants into valuable products through chemical processes. Lignin, the chemically aromatic third of the plant cell wall, is essential to biorefinery processes as lignin can be converted into chemicals, bioplastics and carbon fibers with monetary high value. My work focuses on lignin deconstruction which is the first step in lignin valorization and involves producing chemical precursors for the valuable products mentioned above from intact plant cell walls. At JBEI we hope to make the biorefinery a successful reality by working to optimize biorefinery processes from every reasonable angle, and in doing so we hope to relieve dependence on petroleum for production of many of the target compounds. Growing our chemicals in the ground instead of pumping them out of the ground may have positive impacts on everything from climate change, to landfill usage, to our wallets.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Non-model Microbes</title>
+      <link>/project/non-model-microbes/</link>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/project/non-model-microbes/</guid>
+      <description>&lt;p&gt;Non-model microbes are those that are underdescribed and undercharacterized when compared to model microbes such as E. coli and brewer’s yeast. The development of microbial ecology as a field led to the discovery that microbes are not only all around us, but are diverse beyond our collective imaginations. This broad diversity is an opportunity to discover and describe novel microbes that could possess the capacity to facilitate chemical reactions that are useful to humans.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Novel Enzyme Discovery</title>
+      <link>/project/novel-enzyme-discovery/</link>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/project/novel-enzyme-discovery/</guid>
+      <description>&lt;p&gt;Novel or under-described microbes have uncharacterized biological machinery, also known as enzymes, that facilitate new chemical reactions. My research particularly focuses on under-described anaerobic single celled fungi and how they facilitate chemical reactions under reducing chemical conditions in the absence of oxygen. Anaerobes have gotten a bad wrap in some introductory biology textbooks as ‘inefficient fermenters,’ but they are in fact highly efficient at obtaining energy from their environment. Additionally, some anaerobes seem to have devised clever ways of facilitating chemical reactions, that usually require oxygen, in its absence.&lt;/p&gt;
 </description>
     </item>
     
@@ -714,24 +732,6 @@ Figure 1: A fancy pie chart.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Non-model Microbes</title>
-      <link>/project/non-model-microbes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/non-model-microbes/</guid>
-      <description>&lt;p&gt;Non-model microbes are those that are underdescribed and undercharacterized when compared to model microbes such as E. coli and brewer’s yeast. The development of microbial ecology as a field led to the discovery that microbes are not only all around us, but are diverse beyond our collective imaginations. This broad diversity is an opportunity to discover and describe novel microbes that could possess the capacity to facilitate chemical reactions that are useful to humans.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Novel Enzyme Discovery</title>
-      <link>/project/novel-enzyme-discovery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/novel-enzyme-discovery/</guid>
-      <description>&lt;p&gt;Novel or under-described microbes have uncharacterized biological machinery, also known as enzymes, that facilitate new chemical reactions. My research particularly focuses on under-described anaerobic single celled fungi and how they facilitate chemical reactions under reducing chemical conditions in the absence of oxygen. Anaerobes have gotten a bad wrap in some introductory biology textbooks as ‘inefficient fermenters,’ but they are in fact highly efficient at obtaining energy from their environment. Additionally, some anaerobes seem to have devised clever ways of facilitating chemical reactions, that usually require oxygen, in its absence.&lt;/p&gt;
 </description>
     </item>
     
