@@ -1,0 +1,15 @@
+# Font style metadata
+name = "TomFont"
+
+# Optional Google font URL
+google_fonts = "Muli"
+
+# Font families
+heading_font = "Muli"
+body_font = "Roboto"
+nav_font = "Roboto"
+mono_font = "Roboto Mono" 
+
+# Options:
+# Quicksand
+# Raleway

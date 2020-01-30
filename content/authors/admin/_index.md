@@ -20,7 +20,7 @@ name: Thomas Lankiewicz
 organizations:
 - name: University of California, Santa Barbara
   url: ""
-role: PhD Student in Evolution, Ecology, and Marine Biology and Chemical Engineering
+role: PhD Student,<br />Evolution, Ecology, and Marine Biology and Chemical Engineering
 social:
 - icon: envelope
   icon_pack: fas

@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/project/lignin-valorization/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/2/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
   </url>
@@ -69,11 +84,6 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -238,19 +248,11 @@
   </url>
   
   <url>
-    <loc>/project/lignin-valorization/</loc>
-  </url>
-  
-  <url>
     <loc>/project/non-model-microbes/</loc>
   </url>
   
   <url>
     <loc>/project/novel-enzyme-discovery/</loc>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
   </url>
   
 </urlset>

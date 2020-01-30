@@ -5,12 +5,21 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Thomas S. Lankiewicz</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Thomas S. Lankiewicz</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Lignin Valorization</title>
+      <link>/project/lignin-valorization/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/project/lignin-valorization/</guid>
+      <description>&lt;p&gt;A lignocellulosic biorefinery is the concept that we can use rapidly growing plants as a feedstock, or chemical starting point, and then transform these plants into valuable products through chemical processes. Lignin, the chemically aromatic third of the plant cell wall, is essential to biorefinery processes as lignin can be converted into chemicals, bioplastics and carbon fibers with monetary high value. My work focuses on lignin deconstruction which is the first step in lignin valorization and involves producing chemical precursors for the valuable products mentioned above from intact plant cell walls. At JBEI we hope to make the biorefinery a successful reality by working to optimize biorefinery processes from every reasonable angle, and in doing so we hope to relieve dependence on petroleum for production of many of the target compounds. Growing our chemicals in the ground instead of pumping them out of the ground may have positive impacts on everything from climate change, to landfill usage, to our wallets.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Genomic and proteomic biases inform metabolic engineering strategies for anaerobic fungi</title>
@@ -705,15 +714,6 @@ Figure 1: A fancy pie chart.
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Lignin Valorization</title>
-      <link>/project/lignin-valorization/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/lignin-valorization/</guid>
-      <description>&lt;p&gt;A lignocellulosic biorefinery is the concept that we can use rapidly growing plants as a feedstock, or chemical starting point, and then transform these plants into valuable products through chemical processes. Lignin, the chemically aromatic third of the plant cell wall, is essential to biorefinery processes as lignin can be converted into chemicals, bioplastics and carbon fibers with monetary high value. My work focuses on lignin deconstruction which is the first step in lignin valorization and involves producing chemical precursors for the valuable products mentioned above from intact plant cell walls. At JBEI we hope to make the biorefinery a successful reality by working to optimize biorefinery processes from every reasonable angle, and in doing so we hope to relieve dependence on petroleum for production of many of the target compounds. Growing our chemicals in the ground instead of pumping them out of the ground may have positive impacts on everything from climate change, to landfill usage, to our wallets.&lt;/p&gt;
 </description>
     </item>
     
