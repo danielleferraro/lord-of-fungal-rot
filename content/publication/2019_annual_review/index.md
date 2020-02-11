@@ -9,10 +9,10 @@ authors:
 - M. O'Malley
 
 date: "2019-03-18T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1146/annurev-chembioeng-060718-030340"
 featured: false
 image:
-  caption: 'Anaerobic gut fungi (AGF) degrade ingested biomass.'
+  caption: 'Anaerobic fungi and other anaerobic microorganisms have great biotechnological potential including harboring; undiscovered lignocellulose degrading enzymes, novel pharmaceuticals, and novel transmembrane transporters.'
   focal_point: ""
   preview_only: false
 projects: []
@@ -28,7 +28,7 @@ tags:
 title: Harnessing nature's anaerobes for biotechnology and bioprocessing
 #url_code: ""
 #url_dataset: ""
-url_pdf: https://www.annualreviews.org/doi/full/10.1146/annurev-chembioeng-060718-030340
+#url_pdf: ""
 #url_poster: ""
 #url_project: ""
 #url_slides: ""

@@ -8,10 +8,10 @@ authors:
 - S. Seppälä
 - M. O'Malley
 date: "2019-04-01"
-doi: ""
+doi: "https://doi.org/10.1016/j.coisb.2019.02.001"
 featured: false
 image:
-  caption: ''
+  caption: 'Fungi are becoming increasingly important to biotechnology, and non-model fungi could be especially important to designing future biotech processes.' 
   focal_point: ""
   preview_only: false
 projects: []
@@ -27,7 +27,7 @@ tags:
 title: Linking ‘omics’ to function unlocks the biotech potential of non-model fungi
 #url_code: ""
 #url_dataset: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S2452310019300095
+#url_pdf: ""
 #url_poster: ""
 #url_project: ""
 #url_slides: ""

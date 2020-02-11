@@ -10,7 +10,7 @@ authors:
 - I. Grigoriev
 - M. O'Malley
 date: "2019-11-15T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.mec.2019.e00107"
 featured: false
 image:
   caption: 'The atypical genome content of the anaerobic gut fungi (AGF) could present a challenge to engineering efforts in the future. However, by carefully considering how AGF genome content might affect future engineering efforts we have produced some analyses and guidance that could alleviate some of the challenge.'
@@ -29,7 +29,7 @@ tags:
 title: Genomic and proteomic biases inform metabolic engineering strategies for anaerobic fungi
 #url_code: ""
 #url_dataset: ""
-url_pdf: https://doi.org/10.1016/j.mec.2019.e00107 
+#url_pdf: ""
 #url_poster: ""
 #url_project: ""
 #url_slides: ""

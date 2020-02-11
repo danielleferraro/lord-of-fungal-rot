@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Thomas S. Lankiewicz</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>HIM image credit: Shutta Vaithiyalingam, [EMSL](https://www.emsl.pnnl.gov/emslweb/)</copyright><lastBuildDate>Wed, 29 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Thomas S. Lankiewicz</title>
@@ -17,7 +17,9 @@
       <link>/project/lignin-valorization/</link>
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/project/lignin-valorization/</guid>
-      <description>&lt;p&gt;A lignocellulosic biorefinery is the concept that we can use rapidly growing plants as a feedstock, or chemical starting point, and then transform these plants into valuable products through chemical processes. Lignin, the chemically aromatic third of the plant cell wall, is essential to biorefinery processes as lignin can be converted into chemicals, bioplastics and carbon fibers with monetary high value. My work focuses on lignin deconstruction which is the first step in lignin valorization and involves producing chemical precursors for the valuable products mentioned above from intact plant cell walls. At JBEI we hope to make the biorefinery a successful reality by working to optimize biorefinery processes from every reasonable angle, and in doing so we hope to relieve dependence on petroleum for production of many of the target compounds. Growing our chemicals in the ground instead of pumping them out of the ground may have positive impacts on everything from climate change, to landfill usage, to our wallets.&lt;/p&gt;
+      <description>&lt;p&gt;The lignocellulosic biorefinery is the concept that we can use rapidly growing plants as a feedstock, or chemical starting point, and then transform these plants into valuable products through various processes. Lignin, the chemically aromatic third of the plant cell wall, is essential to biorefinery processes as lignin can theoretically be converted into bioplastics, coatings, flavorings, and carbon fibers with high monetary value. The old adage that was once tossed around is “you can make anything from lignin, except money,” but our understanding of lignin chemistry and biology has rapidly imparted viability to ideas that were once impossible. A fully functional lignin valorization pipeline has the potential to replace demand for petroleum molecules like &lt;em&gt;p&lt;/em&gt;-xylene. Growing our chemicals in the ground instead of pumping them out of the ground could have positive impacts on everything from climate change, to landfill usage, to our wallets.&lt;/p&gt;
+
+&lt;p&gt;My work focuses on lignin deconstruction which is the first step in lignin valorization and involves producing chemical precursors for the valuable products from intact plant cell walls. Solubilization of lignin provides precursors for lignin-derived chemicals and also allows other enzymes to better break down the other parts of the plant cell wall. Since there are currently no described ligninolytic enzyme systems that work in the absence of molecular oxygen, I hope to be able to describe new enzymes that break down lignin in entirely new ways.&lt;/p&gt;
 </description>
     </item>
     
@@ -26,7 +28,9 @@
       <link>/project/non-model-microbes/</link>
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/project/non-model-microbes/</guid>
-      <description>&lt;p&gt;Non-model microbes are those that are underdescribed and undercharacterized when compared to model microbes such as E. coli and brewer’s yeast. The development of microbial ecology as a field led to the discovery that microbes are not only all around us, but are diverse beyond our collective imaginations. This broad diversity is an opportunity to discover and describe novel microbes that could possess the capacity to facilitate chemical reactions that are useful to humans.&lt;/p&gt;
+      <description>&lt;p&gt;Non-model microbes are those that are under described and under characterized when compared to model microbes such as &lt;em&gt;E. coli&lt;/em&gt; and &lt;em&gt;S. cerevisiae&lt;/em&gt;. The development of microbial ecology as a field led to the discovery that microbes are not only all around us, but are diverse beyond our collective imaginations. This broad diversity is an opportunity to discover and describe novel microbes that could possess the capacity to facilitate chemical reactions that are useful to humans.&lt;/p&gt;
+
+&lt;p&gt;I work on non-model organisms known as the anaerobic gut fungi (AGF), which are the descendants of aerobic fungi and all belong to the phylum Neocallimastigomycota. The AGF are effective degraders of biomass and their genomes possess more genes for breaking down lignocellulose than the genome of any other organism. Despite the enzymatic superiority of the AGF only 30% of genes in AGF genomes can be assigned a function. This plus their incompletely described biology make them a non-model microbial system.&lt;/p&gt;
 </description>
     </item>
     
@@ -35,7 +39,9 @@
       <link>/project/novel-enzyme-discovery/</link>
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/project/novel-enzyme-discovery/</guid>
-      <description>&lt;p&gt;Novel or under-described microbes have uncharacterized biological machinery, also known as enzymes, that facilitate new chemical reactions. My research particularly focuses on under-described anaerobic single celled fungi and how they facilitate chemical reactions under reducing chemical conditions in the absence of oxygen. Anaerobes have gotten a bad wrap in some introductory biology textbooks as ‘inefficient fermenters,’ but they are in fact highly efficient at obtaining energy from their environment. Additionally, some anaerobes seem to have devised clever ways of facilitating chemical reactions, that usually require oxygen, in its absence.&lt;/p&gt;
+      <description>&lt;p&gt;Microbes have biological machinery, also known as enzymes, that facilitate chemical reactions. Chemical reactions facilitated by enzymes could synthesize valuable molecules, or could help with other processes of interest like the hydrolysis of lignocellulose. In some cases we hope to find enzymes that catalyze reactions that are currently not known to take place in nature. Anaerobes have gotten a reputation as being inefficient fermenters, or evolutionarily primitive in some introductory biology textbooks. But some anaerobes are in fact highly efficient at obtaining energy from their environment. Additionally, some anaerobes seem to have devised clever ways of facilitating chemical reactions, that usually require oxygen, in its absence.&lt;/p&gt;
+
+&lt;p&gt;My research particularly focuses on under-described anaerobic gut fungi (AGF) and how they facilitate chemical reactions under reducing chemical conditions in the absence of oxygen. I have two main lines of inquiry in my work. First, I want to discover how the AGF break down lignin in the absence of oxygen. The enzymes that carry out this process have potential to be useful in lignocellulosic biorefinery applications. Secondly I also seek to discover undescribed enzymes that participate in anaerobic energy conservation. These enzymes could be of use to researchers that seek to engineer efficient anaerobic biology, and are of great interest to basic biological research.&lt;/p&gt;
 </description>
     </item>
     

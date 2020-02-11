@@ -11,10 +11,10 @@ authors:
 - D. Valentine
 - M. O'Malley
 date: "2019-08-28T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1021/acssynbio.9b00271"
 featured: false
 image:
-  caption: 'Anaerobic gut fungi degrade lignin.'
+  caption: 'Synthetic reconstruction, guided by natural consortia, highlights interesting features of anaerobic fungal-methanogen partnerships.'
   focal_point: ""
   preview_only: false
 projects: []
@@ -30,7 +30,7 @@ tags:
 title: Top-down enrichment guides in formation of synthetic microbial consortia for biomass degradation
 #url_code: ""
 #url_dataset: ""
-url_pdf: https://pubs.acs.org/doi/abs/10.1021/acssynbio.9b00271
+#url_pdf: ""
 #url_poster: ""
 #url_project: ""
 #url_slides: ""

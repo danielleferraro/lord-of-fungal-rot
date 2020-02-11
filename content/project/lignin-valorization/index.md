@@ -2,7 +2,7 @@
 date: "2020-01-29T00:00:00Z"
 external_link: ""
 image:
-  caption: 'Beckham et al. 2016, Current Opinion in Biotechnology'
+  caption: 'This schematic depicts the possible roles of biology in lignin valorization. Enzymes from biology can help with the two primary steps of lignin valorization depolymerization and conversion. Figure from Beckham et al., 2016 - Current Opinion in Biotechnology.' 
   focal_point: Smart
 # links:
 # - icon: twitter
@@ -22,4 +22,6 @@ url_video: ""
 
 ---
 
-A lignocellulosic biorefinery is the concept that we can use rapidly growing plants as a feedstock, or chemical starting point, and then transform these plants into valuable products through chemical processes. Lignin, the chemically aromatic third of the plant cell wall, is essential to biorefinery processes as lignin can be converted into chemicals, bioplastics and carbon fibers with monetary high value. My work focuses on lignin deconstruction which is the first step in lignin valorization and involves producing chemical precursors for the valuable products mentioned above from intact plant cell walls. At JBEI we hope to make the biorefinery a successful reality by working to optimize biorefinery processes from every reasonable angle, and in doing so we hope to relieve dependence on petroleum for production of many of the target compounds. Growing our chemicals in the ground instead of pumping them out of the ground may have positive impacts on everything from climate change, to landfill usage, to our wallets.
+The lignocellulosic biorefinery is the concept that we can use rapidly growing plants as a feedstock, or chemical starting point, and then transform these plants into valuable products through various processes. Lignin, the chemically aromatic third of the plant cell wall, is essential to biorefinery processes as lignin can theoretically be converted into bioplastics, coatings, flavorings, and carbon fibers with high monetary value. The old adage that was once tossed around is “you can make anything from lignin, except money,” but our understanding of lignin chemistry and biology has rapidly imparted viability to ideas that were once impossible. A fully functional lignin valorization pipeline has the potential to replace demand for petroleum molecules like *p*-xylene. Growing our chemicals in the ground instead of pumping them out of the ground could have positive impacts on everything from climate change, to landfill usage, to our wallets. 
+
+My work focuses on lignin deconstruction which is the first step in lignin valorization and involves producing chemical precursors for the valuable products from intact plant cell walls. Solubilization of lignin provides precursors for lignin-derived chemicals and also allows other enzymes to better break down the other parts of the plant cell wall. Since there are currently no described ligninolytic enzyme systems that work in the absence of molecular oxygen, I hope to be able to describe new enzymes that break down lignin in entirely new ways. 

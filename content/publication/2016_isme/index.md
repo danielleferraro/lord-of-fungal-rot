@@ -6,7 +6,7 @@ authors:
 - D. Kirchman
 
 date: "2016-01-28T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1038/ismej.2015.156"
 featured: false
 image:
   caption: 'DAPI stain of four bacterial cultures.'
@@ -25,7 +25,7 @@ tags:
 title: Growth rates and rRNA content of four marine bacteria in pure cultures and in the Delaware estuary
 #url_code: ""
 #url_dataset: ""
-url_pdf: https://www.nature.com/articles/ismej2015156
+#url_pdf: ""
 #url_poster: ""
 #url_project: ""
 #url_slides: ""
